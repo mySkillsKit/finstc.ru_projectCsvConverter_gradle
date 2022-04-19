@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.eagleinvsys.test.converters.StandardCsvConverterTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-19T00:14:47" hostname="AvasMacBook.local" time="0.029">
+  <properties/>
+  <testcase name="[1] header4, header3, header2, header1" classname="org.eagleinvsys.test.converters.StandardCsvConverterTests" time="0.006"/>
+  <testcase name="[2] message4, message3, message2, message1" classname="org.eagleinvsys.test.converters.StandardCsvConverterTests" time="0.003"/>
+  <testcase name="[3] message8, message7, message6, message5" classname="org.eagleinvsys.test.converters.StandardCsvConverterTests" time="0.002"/>
+  <testcase name="[4] message12, message11, message10, message9" classname="org.eagleinvsys.test.converters.StandardCsvConverterTests" time="0.002"/>
+  <testcase name="testStConvert()" classname="org.eagleinvsys.test.converters.StandardCsvConverterTests" time="0.006"/>
+  <system-out><![CDATA[StandardCsvConverterTests started
+header4,header3,header2,header1,
+message4,message3,message2,message1,
+message8,message7,message6,message5,
+message12,message11,message10,message9,
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

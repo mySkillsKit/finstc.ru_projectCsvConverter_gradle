@@ -1,0 +1,16 @@
+org/eagleinvsys/test/converters/StandardConverter.java
+ org.eagleinvsys.test.converters.StandardConverter
+org/eagleinvsys/test/converters/ConvertibleCollection.java
+ org.eagleinvsys.test.converters.ConvertibleCollection
+org/eagleinvsys/test/converters/Converter.java
+ org.eagleinvsys.test.converters.Converter
+org/eagleinvsys/test/converters/impl/Message.java
+ org.eagleinvsys.test.converters.impl.Message
+org/eagleinvsys/test/converters/ConvertibleMessage.java
+ org.eagleinvsys.test.converters.ConvertibleMessage
+org/eagleinvsys/test/converters/impl/ConvertibleCollection.java
+ org.eagleinvsys.test.converters.impl.ConvertibleCollection
+org/eagleinvsys/test/converters/impl/StandardCsvConverter.java
+ org.eagleinvsys.test.converters.impl.StandardCsvConverter
+org/eagleinvsys/test/converters/impl/CsvConverter.java
+ org.eagleinvsys.test.converters.impl.CsvConverter

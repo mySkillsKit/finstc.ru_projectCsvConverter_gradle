@@ -1,0 +1,5 @@
+org/eagleinvsys/test/converters/StandardCsvConverterTests.java
+ org.eagleinvsys.test.converters.StandardCsvConverterTests
+org/eagleinvsys/test/converters/CsvConverterTests.java
+ org.eagleinvsys.test.converters.CsvConverterTests
+ org.eagleinvsys.test.converters.CsvConverterTests$1
